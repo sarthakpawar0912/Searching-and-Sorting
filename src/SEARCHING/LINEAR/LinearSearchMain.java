@@ -64,6 +64,7 @@ public class LinearSearchMain {
 
         // Calls LinearSearch with hardcoded key
 //        int result = LinearSearch(arr, key);
+
         // Checks if key was found
 //        if (result == -1) {
         // Prints if not found
