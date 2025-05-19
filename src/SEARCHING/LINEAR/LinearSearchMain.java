@@ -61,6 +61,7 @@ public class LinearSearchMain {
 
         // Defines a fixed key (10) to search in the array
 //        int key = 10;
+
         // Calls LinearSearch with hardcoded key
 //        int result = LinearSearch(arr, key);
         // Checks if key was found
