@@ -10,6 +10,7 @@ public class LinearSearchMain {
 
         // Loop through each element in the array
         for (int i = 0; i < arr.length; i++) {
+
             // Check if current element matches the key
             if (arr[i] == key) {
                 return i; // Return index where key is found
