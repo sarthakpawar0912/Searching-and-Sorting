@@ -69,6 +69,7 @@ public class LinearSearchMain {
 //        if (result == -1) {
         // Prints if not found
 //            System.out.println("Element not found");
+
         // Prints index if found
 //        } else {
 //            System.out.println("Element found at index " + result);
