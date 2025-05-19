@@ -42,6 +42,7 @@ public class LinearSearchMain {
 
         // Call LinearSearch to find the key’s index
         int result = LinearSearch(arr, key);
+
         // Check if key was found (result != -1)
         if (result == -1) {
             // If not found, print message
