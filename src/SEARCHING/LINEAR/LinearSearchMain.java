@@ -39,6 +39,7 @@ public class LinearSearchMain {
 
         // Read the user’s input as an integer
         int key = sc.nextInt();
+
         // Call LinearSearch to find the key’s index
         int result = LinearSearch(arr, key);
         // Check if key was found (result != -1)
