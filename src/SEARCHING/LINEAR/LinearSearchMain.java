@@ -14,6 +14,7 @@ public class LinearSearchMain {
             // Check if current element matches the key
 
             if (arr[i] == key) {
+
                 return i; // Return index where key is found
             }
         }
