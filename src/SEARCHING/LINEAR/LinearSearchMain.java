@@ -58,6 +58,7 @@ public class LinearSearchMain {
 
 
         // Commented-out section for hardcoded testing
+
         // Defines a fixed key (10) to search in the array
 //        int key = 10;
         // Calls LinearSearch with hardcoded key
