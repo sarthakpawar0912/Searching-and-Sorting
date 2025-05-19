@@ -16,6 +16,7 @@ public class LinearSearchMain {
             if (arr[i] == key) {
 
                 return i; // Return index where key is found
+
             }
         }
         // If key is not found, return -1
