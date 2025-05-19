@@ -19,6 +19,7 @@ public class LinearSearchMain {
 
             }
         }
+
         // If key is not found, return -1
         return -1;
     }
