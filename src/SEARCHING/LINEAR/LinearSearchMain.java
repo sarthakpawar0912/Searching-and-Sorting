@@ -22,6 +22,7 @@ public class LinearSearchMain {
 
         // If key is not found, return -1
         return -1;
+
     }
 
     // Main method to test linear search with user input
