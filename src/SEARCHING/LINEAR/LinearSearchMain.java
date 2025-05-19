@@ -1,5 +1,4 @@
 package SEARCHING.LINEAR;
-
 import java.util.Scanner;
 
 // Class to demonstrate linear search algorithm
