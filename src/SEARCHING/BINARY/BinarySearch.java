@@ -1,16 +1,20 @@
 package SEARCHING.BINARY;//
-// Source code recreated from a .class file by IntelliJ IDEA
-
 
 public class BinarySearch {
+
     public BinarySearch() {
     }
 
     public static void main(String[] args) {
+
         int[] arr = new int[]{1, 2, 4, 5, 7, 8, 10, 14, 18, 44};
+
         int target = 8;
+
         int ans = binarySearch(arr, target);
+
         System.out.println(ans);
+
     }
 
     static int binarySearch(int[] arr, int target) {
