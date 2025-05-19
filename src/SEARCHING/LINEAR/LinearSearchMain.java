@@ -50,6 +50,7 @@ public class LinearSearchMain {
             System.out.println("Element not found");
 
         } else {
+
             // If found, print the index
             System.out.println("Element found at index " + result);
         }
