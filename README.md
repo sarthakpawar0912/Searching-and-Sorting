@@ -2,7 +2,7 @@ DSA-Searching-Sorting 🚀
 
 Project Overview 📚
 
-This repository contains Java implementations of searching and sorting algorithms for Data Structures and Algorithms (DSA) study. Clear, documented code is organized for learning and reuse. 🌟
+A Java-based DSA repository featuring searching (Linear, Binary) and sorting (Insertion, Merge, Quick) algorithms, well-organized with clear documentation for learning and reference. 🚀
 
 Algorithms Implemented 🛠️
 
