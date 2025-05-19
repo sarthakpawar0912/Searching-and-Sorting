@@ -7,6 +7,7 @@ public class LinearSearchMain {
     // Method to perform linear search on an array
     // Takes an array and a key to search for, returns index or -1
     public static int LinearSearch(int[] arr, int key) {
+
         // Loop through each element in the array
         for (int i = 0; i < arr.length; i++) {
             // Check if current element matches the key
