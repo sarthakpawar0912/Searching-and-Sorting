@@ -36,6 +36,7 @@ public class LinearSearchMain {
 
         // Prompt user to enter the number to search for
         System.out.println("Enter the element to be searched : ");
+
         // Read the user’s input as an integer
         int key = sc.nextInt();
         // Call LinearSearch to find the key’s index
