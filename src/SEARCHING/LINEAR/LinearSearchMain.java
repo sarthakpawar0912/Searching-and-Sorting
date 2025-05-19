@@ -45,6 +45,7 @@ public class LinearSearchMain {
 
         // Check if key was found (result != -1)
         if (result == -1) {
+
             // If not found, print message
             System.out.println("Element not found");
         } else {
