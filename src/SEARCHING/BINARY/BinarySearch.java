@@ -31,11 +31,15 @@ public class BinarySearch {
                 end = mid - 1;
 
             } else {
+
                 if (target <= arr[mid]) {
+
                     return mid;
+
                 }
 
                 start = mid + 1;
+
             }
         }
 
