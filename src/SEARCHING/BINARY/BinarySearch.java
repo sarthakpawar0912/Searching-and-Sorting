@@ -2,8 +2,7 @@ package SEARCHING.BINARY;//
 
 public class BinarySearch {
 
-    public BinarySearch() {
-    }
+
 
     public static void main(String[] args) {
 
