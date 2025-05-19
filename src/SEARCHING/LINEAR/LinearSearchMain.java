@@ -53,7 +53,9 @@ public class LinearSearchMain {
 
             // If found, print the index
             System.out.println("Element found at index " + result);
+
         }
+
 
         // Commented-out section for hardcoded testing
         // Defines a fixed key (10) to search in the array
